@@ -100,7 +100,7 @@ Installation and configuration of John the Ripper (JTR) and Johnny GUI on Window
 ### Screenshot 2: PDF Hash Extraction
 Password-related hash data extracted from the encrypted PDF and saved in a text file for analysis.
 
-![PDF Hash Extraction](screenshots/screenshot2.png)
+![PDF Hash Extraction](Extracted hash PDF2.png)
 
 ### Screenshot 3: Password Cracking with Johnny GUI
 Johnny GUI displaying the password recovery process and successful completion of the attack.
@@ -128,24 +128,6 @@ The previously password-protected PDF opened successfully using the recovered pa
 - Use a trusted password manager to generate and store strong passwords.
 - Avoid uploading sensitive documents or password material to untrusted third-party services.
 - Do not publish recovered credentials, raw sensitive hashes, or confidential documents.
-
-## Suggested repository structure
-
-```text
-Networkwalks-Week3-Password-Security-Labs/
-├── README.md
-└── screenshots/
-    ├── pm1-johnny-setup.png
-    ├── pm1-hash-redacted.png
-    ├── pm1-recovery-result-redacted.png
-    ├── pm1-pdf-verification.png
-    ├── pm2-hash-calculator.png
-    ├── pm2-output-redacted.png
-    ├── pm2-recovery-result-redacted.png
-    └── pm2-pdf-verification.png
-```
-
-*Screenshot filenames are placeholders; add your actual evidence files after reviewing them for sensitive information.*
 
 ## Disclaimer
 
