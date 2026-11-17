@@ -95,7 +95,7 @@ Recover the opening password of the authorised training file **My Locked PDF3.pd
 ### Screenshot 1: JTR and Johnny GUI Setup
 Installation and configuration of John the Ripper (JTR) and Johnny GUI on Windows.
 
-![JTR and Johnny GUI Setup]()
+![JTR and Johnny GUI Setup](https://github.com/ProffV/Networkwalks-Week3-Password-Security-Labs./blob/main/Before%20cracking1.png)
 
 ### Screenshot 2: PDF Hash Extraction
 Password-related hash data extracted from the encrypted PDF and saved in a text file for analysis.
