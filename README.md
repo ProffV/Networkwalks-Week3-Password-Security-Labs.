@@ -54,7 +54,7 @@ Recover the opening password of the authorised training file **My Locked PDF2.pd
 
 **Reported outcome:** Password recovery was successful, and the PDF was opened using the recovered password.
 
-### Evidence to include
+### Screenshot Evidence included below
 
 - Screenshot 1: John the Ripper and Johnny GUI installation/configuration.
 - Screenshot 2: Prepared hash file, with sensitive values redacted.
@@ -82,7 +82,7 @@ Recover the opening password of the authorised training file **My Locked PDF3.pd
 
 **Reported outcome:** The password was recovered, and the training PDF was opened successfully.
 
-### Evidence to include
+### Evidences included below
 
 - Screenshot 1: Networkwalks Hash Calculator interface.
 - Screenshot 2: Generated output, with sensitive data redacted.
@@ -90,6 +90,28 @@ Recover the opening password of the authorised training file **My Locked PDF3.pd
 - Screenshot 4: Successfully opened training PDF.
 
 ---
+## 📸 Screenshot Evidence – Project 1
+
+### Screenshot 1: JTR and Johnny GUI Setup
+Installation and configuration of John the Ripper (JTR) and Johnny GUI on Windows.
+
+![JTR and Johnny GUI Setup](screenshots/screenshot1.png)
+
+### Screenshot 2: PDF Hash Extraction
+Password-related hash data extracted from the encrypted PDF and saved in a text file for analysis.
+
+![PDF Hash Extraction](screenshots/screenshot2.png)
+
+### Screenshot 3: Password Cracking with Johnny GUI
+Johnny GUI displaying the password recovery process and successful completion of the attack.
+
+![Johnny GUI Password Recovery](screenshots/screenshot3.png)
+
+### Screenshot 4: Successful PDF Access
+The previously password-protected PDF opened successfully using the recovered password.
+
+![Successfully Opened PDF](screenshots/screenshot4.png)
+
 
 ## Key lessons learned
 
